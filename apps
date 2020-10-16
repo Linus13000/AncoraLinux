@@ -4,3 +4,9 @@ nano
 iwd
 dhcpcd
 sudo
+amd-ucode
+intel-ucode
+xorg
+mesa
+xf86-video-intel
+lxde
