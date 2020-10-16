@@ -13,3 +13,9 @@ lxde
 lxdm-themes
 libreoffice
 midori
+base-devel
+git
+
+Aur:
+lxdm-themes
+arch-silence-grub-theme-git
