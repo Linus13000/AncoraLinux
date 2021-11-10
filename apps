@@ -2,6 +2,7 @@ List of apps to be downloaded from installer
 base
 linux
 linux-firmware
+grub
 vim
 iwd
 dhcpcd
