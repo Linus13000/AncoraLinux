@@ -13,7 +13,7 @@ echo KEYMAP=de-latin1 >> /etc/vconsole.conf
 echo AncoraLinux >> /etc/hostname
 passwd
 echo GRUB_DISABLE_OS_PROBER=false >> /etc/default/grub
-grub-install --target=i386-pc ${disk}1
+grub-install --target=i386-pc ${disk}
 grub-mkconfig -o /boot/grub/grub.cfg
 echo "Now reboot"
 exit
