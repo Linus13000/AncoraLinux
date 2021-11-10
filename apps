@@ -1,6 +1,8 @@
 List of apps to be downloaded from installer
+base
+linux
+linux-firmware
 vim
-nano
 iwd
 dhcpcd
 sudo
@@ -10,13 +12,6 @@ xorg
 mesa
 xf86-video-intel
 lxde
-lxdm-themes
-libreoffice
-midori
 base-devel
 git
-fbida
-
-Aur:
-lxdm-themes
-arch-silence-grub-theme-git
+python
